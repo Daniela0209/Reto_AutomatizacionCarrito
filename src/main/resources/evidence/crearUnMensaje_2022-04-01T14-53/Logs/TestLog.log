@@ -1,0 +1,85 @@
+2022-abr-01 14:53:54 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'crearUnMensaje' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-0.png
+2022-abr-01 14:53:55 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-1.png
+2022-abr-01 14:53:56 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : 'Webmaster' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-2.png
+2022-abr-01 14:53:56 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-3.png
+2022-abr-01 14:53:56 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'albertha.hoeger@sofmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-4.png
+2022-abr-01 14:53:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-5.png
+2022-abr-01 14:53:57 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Mensaje de prueba' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-6.png
+2022-abr-01 14:53:59 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-7.png
+2022-abr-01 14:53:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-8.png
+2022-abr-01 14:53:59 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******crearUnMensaje-CrearElMensaje
+2022-abr-01 14:54:00 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******crearUnMensaje-CrearElMensaje
+2022-abr-01 14:54:04 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'CrearNuevaCuenta' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-0.png
+2022-abr-01 14:54:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-1.png
+2022-abr-01 14:54:09 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'alvis.kirlin@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-2.png
+2022-abr-01 14:54:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-3.png
+2022-abr-01 14:54:13 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-4.png
+2022-abr-01 14:54:13 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Velda' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-5.png
+2022-abr-01 14:54:14 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Lakin' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-6.png
+2022-abr-01 14:54:14 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '25906376' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-7.png
+2022-abr-01 14:54:14 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '10' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-8.png
+2022-abr-01 14:54:15 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '8' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-9.png
+2022-abr-01 14:54:16 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1985' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-10.png
+2022-abr-01 14:54:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '097 Vidal Creek, Tracyside, NC 97241' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-11.png
+2022-abr-01 14:54:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Dellachester' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-12.png
+2022-abr-01 14:54:16 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-13.png
+2022-abr-01 14:54:17 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '62197' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-14.png
+2022-abr-01 14:54:17 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3608408444' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-15.png
+2022-abr-01 14:54:19 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-16.png
+2022-abr-01 14:54:19 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Velda Lakin''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T14-53\CrearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-17.png
+2022-abr-01 14:54:20 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******CrearNuevaCuenta-CrearUnaCuenta
+2022-abr-01 14:54:20 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******CrearNuevaCuenta-CrearUnaCuenta

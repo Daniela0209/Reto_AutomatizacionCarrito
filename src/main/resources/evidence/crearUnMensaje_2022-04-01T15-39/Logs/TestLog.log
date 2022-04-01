@@ -1,0 +1,62 @@
+2022-abr-01 15:39:31 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'crearUnMensaje' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-0.png
+2022-abr-01 15:39:32 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-1.png
+2022-abr-01 15:39:33 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : 'Webmaster' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-2.png
+2022-abr-01 15:39:33 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-3.png
+2022-abr-01 15:39:34 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'eusebio.strosin@sofmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-4.png
+2022-abr-01 15:39:34 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-5.png
+2022-abr-01 15:39:34 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Mensaje de prueba' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-6.png
+2022-abr-01 15:39:36 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-7.png
+2022-abr-01 15:39:36 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearElMensaje . Image name: CrearElMensaje-8.png
+2022-abr-01 15:39:37 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******crearUnMensaje-CrearElMensaje
+2022-abr-01 15:39:40 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'crearUnMensaje' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-0.png
+2022-abr-01 15:39:42 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-1.png
+2022-abr-01 15:39:43 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : 'Webmaster' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-2.png
+2022-abr-01 15:39:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-3.png
+2022-abr-01 15:39:43 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'cleora.considine@sofmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-4.png
+2022-abr-01 15:39:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-5.png
+2022-abr-01 15:39:44 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'SE5678' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-6.png
+2022-abr-01 15:39:44 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-7.png
+2022-abr-01 15:39:44 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Mensaje de prueba' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-8.png
+2022-abr-01 15:39:46 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-9.png
+2022-abr-01 15:39:46 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\crearUnMensaje_2022-04-01T15-39\crearUnMensaje\CrearMensajeReference . Image name: CrearMensajeReference-10.png
+2022-abr-01 15:39:46 [Test] INFO  : *****HA FINALIZADO LA PRUEBA******crearUnMensaje-CrearMensajeReference

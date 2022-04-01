@@ -1,0 +1,6 @@
+2022-mar-30 22:45:51 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'HOME_SOFKA' , Url : 'https://www.sofka.com.co/es/''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\TEST_WEB_APP_2022-03-30T22-45\HOME_SOFKA . Image name: HOME_SOFKA-0.png
+2022-mar-30 22:45:56 [Test] COMPLETED : Action 'pause' executed successfully with parameters :
+'Seconds : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\TEST_WEB_APP_2022-03-30T22-45\HOME_SOFKA . Image name: HOME_SOFKA-0.png
