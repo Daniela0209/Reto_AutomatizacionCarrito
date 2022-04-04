@@ -30,11 +30,12 @@ public class Dictionary {
             "/" +
             PROPERTIES_FILE_BASE_PATH + "mail.properties";
 
-    public static  final int TIME = 2;
+    public static  final int TIME = 60;
 
     public static final Boolean EVIDENCE = true;
 
     public static final String MESSAGE_VIEW = "Your message has been successfully sent to our team.";
     public static final String MESSAGE_USER = "Mensaje de prueba";
     public static final String REFERENCE = "SE5678";
+    public static final String MESSAGE_ADDCAR_COMPLETE ="Your order on My Store is complete.";
 }

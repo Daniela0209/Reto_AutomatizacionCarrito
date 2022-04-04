@@ -1,0 +1,4 @@
+2022-abr-03 16:35:13 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'addToCar' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T16-35\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-0.png
+2022-abr-03 16:35:14 [Test] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AgregarProductosAlCarrito

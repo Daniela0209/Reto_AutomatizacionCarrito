@@ -7,14 +7,19 @@ import co.com.sofka.test.exceptions.WebActionsException;
 import com.co.daniela.webproject.test.helpers.Dictionary;
 import com.co.daniela.webproject.test.helpers.Helper;
 
-import static com.co.daniela.webproject.test.helpers.Dictionary.APP_URL_PROPERTY;
-import static com.co.daniela.webproject.test.helpers.Helper.getProperty;
 
 
 public class StartBrowserWebController {
     private WebAction webAction;
     private String feature;
     private Browser browser;
+
+    public StartBrowserWebController(WebAction webAction, String featureName, Browser browser) {
+    }
+
+    public StartBrowserWebController() {
+
+    }
 
     public void setWebAction(WebAction webAction) {
         this.webAction = webAction;

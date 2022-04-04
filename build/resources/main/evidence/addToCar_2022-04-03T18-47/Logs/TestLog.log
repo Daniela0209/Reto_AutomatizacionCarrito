@@ -1,0 +1,173 @@
+2022-abr-03 18:47:34 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'addToCar' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-0.png
+2022-abr-03 18:47:36 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-1.png
+2022-abr-03 18:47:37 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'bettye.schamberger@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-2.png
+2022-abr-03 18:47:37 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-3.png
+2022-abr-03 18:47:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-4.png
+2022-abr-03 18:47:41 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Daron' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-5.png
+2022-abr-03 18:47:41 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Hills' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-6.png
+2022-abr-03 18:47:42 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '09591572' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-7.png
+2022-abr-03 18:47:43 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '22' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-8.png
+2022-abr-03 18:47:43 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '7' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-9.png
+2022-abr-03 18:47:44 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1987' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-10.png
+2022-abr-03 18:47:45 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '48103 Cindy Crossing, South Cameron, OK 49568-1270' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-11.png
+2022-abr-03 18:47:45 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'North Laurianehaven' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-12.png
+2022-abr-03 18:47:46 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-13.png
+2022-abr-03 18:47:46 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '80468' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-14.png
+2022-abr-03 18:47:47 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3587609144' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-15.png
+2022-abr-03 18:47:49 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-16.png
+2022-abr-03 18:47:52 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-17.png
+2022-abr-03 18:47:53 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-18.png
+2022-abr-03 18:47:53 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-19.png
+2022-abr-03 18:47:55 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-20.png
+2022-abr-03 18:47:56 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-21.png
+2022-abr-03 18:47:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-22.png
+2022-abr-03 18:47:59 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-23.png
+2022-abr-03 18:48:00 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-24.png
+2022-abr-03 18:48:01 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-25.png
+2022-abr-03 18:48:03 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-26.png
+2022-abr-03 18:48:06 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-27.png
+2022-abr-03 18:48:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-28.png
+2022-abr-03 18:48:09 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-29.png
+2022-abr-03 18:48:10 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-30.png
+2022-abr-03 18:48:12 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-31.png
+2022-abr-03 18:48:13 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-32.png
+2022-abr-03 18:48:16 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-33.png
+2022-abr-03 18:48:16 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6' , Extracted Text : 'Your order on My Store is complete.''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AgregarProductosAlCarrito . Image name: AgregarProductosAlCarrito-34.png
+2022-abr-03 18:48:17 [Test] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AgregarProductosAlCarrito
+2022-abr-03 18:48:21 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'addToCar' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-0.png
+2022-abr-03 18:48:24 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-1.png
+2022-abr-03 18:48:24 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'sim.miller@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-2.png
+2022-abr-03 18:48:25 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-3.png
+2022-abr-03 18:48:29 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-4.png
+2022-abr-03 18:48:29 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Angelita' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-5.png
+2022-abr-03 18:48:29 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Satterfield' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-6.png
+2022-abr-03 18:48:30 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '12316460' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-7.png
+2022-abr-03 18:48:30 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '3' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-8.png
+2022-abr-03 18:48:30 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '8' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-9.png
+2022-abr-03 18:48:31 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1989' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-10.png
+2022-abr-03 18:48:32 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '78549 Schuster Course, Port Feliciaside, MD 16686' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-11.png
+2022-abr-03 18:48:32 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'New Demarco' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-12.png
+2022-abr-03 18:48:32 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-13.png
+2022-abr-03 18:48:33 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '58988' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-14.png
+2022-abr-03 18:48:33 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3104594523' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-15.png
+2022-abr-03 18:48:35 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-16.png
+2022-abr-03 18:48:37 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-17.png
+2022-abr-03 18:48:38 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-18.png
+2022-abr-03 18:48:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-19.png
+2022-abr-03 18:48:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-20.png
+2022-abr-03 18:48:41 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '6''.
+		Evidence saved at: C:\Users\daniela.grajales\Documents\Pruebas_Automatizadas_Training\SofkaModelo\src\main\resources\evidence\addToCar_2022-04-03T18-47\addToCar\AnadirProductosAlCarro . Image name: AnadirProductosAlCarro-21.png
+2022-abr-03 18:48:42 [Test] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AnadirProductosAlCarro

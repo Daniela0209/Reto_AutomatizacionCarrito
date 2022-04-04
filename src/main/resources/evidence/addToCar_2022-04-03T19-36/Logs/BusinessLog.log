@@ -1,0 +1,3 @@
+2022-abr-03 19:37:44 [Business] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AgregarProductosAlCarrito
+2022-abr-03 19:39:31 [Business] FAILED : Hubo un fallo al abrir la pagina de confirmar la compra
+2022-abr-03 19:39:31 [Business] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AnadirProductosAlCarro

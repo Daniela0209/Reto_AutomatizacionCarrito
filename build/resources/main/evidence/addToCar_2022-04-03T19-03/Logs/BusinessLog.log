@@ -1,0 +1,3 @@
+2022-abr-03 19:03:53 [Business] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AgregarProductosAlCarrito
+2022-abr-03 19:05:27 [Business] FAILED : Se dificulto agregar al carrito
+2022-abr-03 19:05:28 [Business] INFO  : *********HA FINALIZADO LA PRUEBA*********addToCar-AnadirProductosAlCarro
